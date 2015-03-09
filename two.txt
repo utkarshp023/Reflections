@@ -17,3 +17,12 @@ How is the staging area different from the working directory and the repository?
     changes onto the repository. It offers a general sense of freedom by letting the 
     user be sure of what he/she wants to commit,and can make as many changes within
     a commit before sanctioning it.
+
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+    We can make sure to have one commit per logical change by using staging area in a 
+    way by adding each change that we think would constitute one logical change and can 
+    keep on doing that till we feel that one logical change is ready to be commited and
+    once we are done we can commit these changes brought to the files in the staging area
+    to the repository.
