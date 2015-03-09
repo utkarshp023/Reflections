@@ -26,3 +26,13 @@ How can you use the staging area to make sure you have one commit per logical ch
     keep on doing that till we feel that one logical change is ready to be commited and
     once we are done we can commit these changes brought to the files in the staging area
     to the repository.
+
+
+What are some situations when branches would be helpful in keeping your history organized?
+     How would branches help?
+
+     whenever we are creating an alternate version of the same program like a version in a 
+     differet language or when we want to work on two versions side-by-side then we can use
+     the concept of branches in order to make it possible instead of starting from scratch.
+     git branch <name of the branch> -> creates
+     git branch -> shows all the branches
