@@ -5,3 +5,14 @@ When would you create a remote repository instead of keeping all your work local
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 	Because only you can tell when a commit is atomic and when i want to count any nnumber of changes as a singular commit.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+	Fork-
+			To clone a git repository onto your github account which automatically creates a remote, so you don't have to run th command ;
+			"git remote  add origin <http:...>".
+
+			just clone it to your pc and push the changes : "git push origin master" after commiting.
+	Clones-
+			To download a repo. to your pc.
+	branches-
+			Various versions of the same root.
