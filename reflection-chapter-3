@@ -1,1 +1,7 @@
 When would you create a remote repository instead of keeping all your work local?
+	When we want to keep a backup to all our commits on a server.
+	When we want other people to contribute to our project.
+	When we want a remote access to the project via cloud.
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+	Because only you can tell when a commit is atomic and when i want to count any nnumber of changes as a singular commit.
